@@ -1,0 +1,508 @@
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Assembly-CSharp-firstpass.pdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Boo.Lang.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/mscorlib.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/System.Core.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/System.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/System.Xml.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.Locator.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEditor.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityScript.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.Cecil.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.DataContract.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Mono.Security.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEditor.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEditor.StandardEvents.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.TextMeshPro.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEditor.UI.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/UnityEditor.UI.xml
+/Users/denislitvin/Downloads/top secret/Snake3D/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/denislitvin/Downloads/top secret/Snake3D/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+/Users/denislitvin/Downloads/top secret/Snake3D/obj/Debug/Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+/Users/denislitvin/Downloads/top secret/Snake3D/obj/Debug/Assembly-CSharp-firstpass.csproj.CopyComplete
+/Users/denislitvin/Downloads/top secret/Snake3D/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/denislitvin/Downloads/top secret/Snake3D/obj/Debug/Assembly-CSharp-firstpass.pdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Assembly-CSharp-firstpass.pdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Boo.Lang.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/mscorlib.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/System.Core.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/System.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/System.Xml.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.Locator.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEditor.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityScript.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.Cecil.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.DataContract.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Mono.Security.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEditor.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEditor.StandardEvents.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.TextMeshPro.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/obj/Debug/Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/obj/Debug/Assembly-CSharp-firstpass.csproj.CopyComplete
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/obj/Debug/Assembly-CSharp-firstpass.pdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEditor.UI.dll.mdb
+/Users/denislitvin/Documents/Developer/Projects/Mine/Snake3D/Temp/bin/Debug/UnityEditor.UI.xml

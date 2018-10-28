@@ -30,7 +30,7 @@ public class Movement : MonoBehaviour
         //print(worldToRotate);
         Vector3 rotationVel = worldToRotate * Time.deltaTime * 10;
         worldToRotate -= rotationVel;
-        world.transform.Rotate(rotationVel);
+        world.transform.Rotate(rotationVel, Space.World);
         rayV = transform.TransformDirection(Vector3.down);
 
         if (Input.GetKeyDown(KeyCode.LeftArrow)) {
@@ -51,13 +51,15 @@ public class Movement : MonoBehaviour
         else if (!flag) {
             flag = true;
 
+
+            transform.Rotate(new Vector3(90f, 0f, 0f));
+            transform.Translate(new Vector3(0f, 0f, distance + width / 2f));
+
             Vector3 directionDiff = transform.TransformDirection(new Vector3(90f, 0f, 0f));
             print(directionDiff);
             worldToRotate += -directionDiff;
             //world.transform.Rotate(-directionDiff);
 
-            transform.Rotate(new Vector3(90f, 0f, 0f));
-            transform.Translate(new Vector3(0f, 0f, distance + width / 2f));
         }
     }
 }

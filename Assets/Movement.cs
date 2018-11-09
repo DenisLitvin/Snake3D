@@ -6,13 +6,18 @@ public class Movement : MonoBehaviour
 {
 
     public GameObject world;
+    public float speed = 1f;
+    public float worldSpeed = 0.5f;
 
-    private Vector3 velocity = Vector3.forward;
-    private float acceleration = 1f;
-    private Vector3 rayV = Vector3.down;
+    private readonly Vector3 velocity = Vector3.forward;
+    private Vector3 ray = Vector3.down;
     private float width;
     private float offset;
-    private Vector3 worldToRotate;
+    private bool stabilizing;
+
+    private Vector3 worldLeftToRotate;
+    private float worldRotationStart;
+    private float distanceToGround;
 
     void Start()
     {
@@ -20,46 +25,73 @@ public class Movement : MonoBehaviour
         offset = -width / 2f;
     }
 
-    bool flag;
-    float distance;
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.LeftArrow))
+        {
+            TurnLeft();
+        }
+        else if (Input.GetKeyDown(KeyCode.RightArrow))
+        {
+            TurnRight();
+        }
+        MoveIfGrounded();
+        RotateWorld();
+    }
 
-    void Update() {
-        Vector3 origin = transform.TransformPoint(new Vector3(offset, offset, offset));
+    private void TurnRight()
+    {
+        transform.Rotate(new Vector3(0f, 90f, 0f));
+        //velocity = Vector3.right;
+    }
+
+    private void TurnLeft()
+    {
+        transform.Rotate(new Vector3(0f, -90f, 0f));
+        //velocity = Vector3.left;
+    }
+
+    private void Move()
+    {
+        transform.Translate(velocity * speed * Time.deltaTime);
+    }
+
+    private void MoveIfGrounded()
+    {
+        Vector3 point = transform.TransformPoint(new Vector3(0f, offset, offset));
+        ray = transform.TransformDirection(Vector3.down);
+
         RaycastHit hit;
+        if (Physics.Raycast(point, ray, out hit))
+        {
+            stabilizing = false;
+            distanceToGround = hit.distance;
+            Move();
+        }
+        else if (!stabilizing)
+        {
+            Stabilize();
+        }
+    }
 
-        //print(worldToRotate);
-        Vector3 rotationVel = worldToRotate * Time.deltaTime * 10;
-        worldToRotate -= rotationVel;
+    private void Stabilize() 
+    {
+        stabilizing = true;
+        transform.Rotate(new Vector3(90f, 0f, 0f));
+        transform.Translate(new Vector3(0f, 0f, distanceToGround + width / 2f));
+        Vector3 directionDiff = transform.TransformDirection(new Vector3(90f, 0f, 0f));
+        worldLeftToRotate += -directionDiff;
+        worldRotationStart = Time.time;
+        //world.transform.Rotate(-directionDiff);
+    }
+
+    private void RotateWorld()
+    {
+        //float rotated = (Time.time - worldRotationStart) * worldSpeed;
+        //Vector3 rotationVel = Vector3.Lerp(Vector3.zero, worldLeftToRotate, worldSpeed);
+        Vector3 rotationVel = worldLeftToRotate * Time.deltaTime * worldSpeed;
+        print(rotationVel);
+        worldLeftToRotate -= rotationVel;
         world.transform.Rotate(rotationVel, Space.World);
-        rayV = transform.TransformDirection(Vector3.down);
-
-        if (Input.GetKeyDown(KeyCode.LeftArrow)) {
-            transform.Rotate(new Vector3(0f, -90f, 0f));
-            //velocity = Vector3.left;
-        }
-        else if (Input.GetKeyDown(KeyCode.RightArrow)) {
-            transform.Rotate(new Vector3(0f, 90f, 0f));
-            //velocity = Vector3.right;
-        }
-
-        if (Physics.Raycast(origin, rayV, out hit)) {
-            transform.Translate(velocity * acceleration * Time.deltaTime);
-            flag = false;
-            distance = hit.distance;
-            //print(origin);
-        }
-        else if (!flag) {
-            flag = true;
-
-
-            transform.Rotate(new Vector3(90f, 0f, 0f));
-            transform.Translate(new Vector3(0f, 0f, distance + width / 2f));
-
-            Vector3 directionDiff = transform.TransformDirection(new Vector3(90f, 0f, 0f));
-            print(directionDiff);
-            worldToRotate += -directionDiff;
-            //world.transform.Rotate(-directionDiff);
-
-        }
     }
 }
